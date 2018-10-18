@@ -2,7 +2,7 @@
 
 ## PLEASE FOLLOW THE INSTRUCTIONS GIVEN BELOW TO TEST THE PROGRAM
 
-1. Extract the contents of the CSC877_project.zip to a directory of your choice.
+1. Place/clone/extract the contents of the project to a directory of your choice.
 2. Open terminal and go to the directory.
 3. Since the data in the zip is already processed and ready to be used you dont need to run the ParseAndFormatData.py
 4. Open the directory in the terminal and enter the command "python3 smoothing.py"
@@ -44,6 +44,7 @@ HD156668
 
 
 ## ADDITIONAL NOTES:
+
 If you want to extract and process the data from scratch, follow these steps before the above steps
 extract the keck_vels_binned.tar.gz in the same dir as the python files
 The directory structure should look something like this
