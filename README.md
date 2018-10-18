@@ -1,6 +1,6 @@
-#README
+# README
 
-##PLEASE FOLLOW THE INSTRUCTIONS GIVEN BELOW TO TEST THE PROGRAM
+## PLEASE FOLLOW THE INSTRUCTIONS GIVEN BELOW TO TEST THE PROGRAM
 
 1. Extract the contents of the CSC877_project.zip to a directory of your choice.
 2. Open terminal and go to the directory.
@@ -43,7 +43,7 @@ HD156668
 
 
 
-##ADDITIONAL NOTES:
+## ADDITIONAL NOTES:
 If you want to extract and process the data from scratch, follow these steps before the above steps
 extract the keck_vels_binned.tar.gz in the same dir as the python files
 The directory structure should look something like this
